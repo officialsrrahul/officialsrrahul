@@ -6,7 +6,7 @@ Python Developer
 
 * 🌍  I'm based in Trivandrum
 * ✉️  You can contact me at [srrahul.official@gmail.com](mailto:srrahul.official@gmail.com)
-* 🧠  I'm learning Django,React and C
+* 🧠  I'm learning Django and React
 * 🤝  I'm open to collaborating on ML
 * ⚡  Im interested in investing as well.
 
