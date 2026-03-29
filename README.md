@@ -1,11 +1,10 @@
 Hi 👋 I'm Rahul Sunil Radhika
 ==============================
 
-Data Science Graduate Student & Python Developer
--------------------------------------------------
+Software Developer in AI/ML · Pursuing MSc Data Science
+--------------------------------------------------------
 
 * 🌍  Based in Marburg an der Lahn, Germany
-* 🎓  Pursuing a Master's in Data Science
 * 🧠  Focused on NLP, LLMs, and Retrieval-Augmented Generation
 * 💻  Building with Python, Django, Flask, and React
 * ⚡  Also interested in investments and freelance development
