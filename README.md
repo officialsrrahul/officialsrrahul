@@ -14,12 +14,12 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Software Engineer and Data Scientist** with 4+ years of experience building and deploying AI-powered full-stack applications. Currently pursuing my **MSc in Data Science** in Germany, I sit at the intersection of research and production — turning LLM research into real-world systems.
+I'm a **Software Engineer and Data Scientist** with 5+ years of experience building and deploying AI-powered full-stack applications. Currently pursuing my **MSc in Data Science** in Germany, I sit at the intersection of research and production — turning LLM research into real-world systems.
 
-- 🌍 Based in **Marburg an der Lahn, Germany**
+- 🌍 Based in **Germany**
 - 🔭 Currently building **AI agents, RAG pipelines, and LLM-powered web apps**
 - 🧠 Deep interest in **NLP, Retrieval-Augmented Generation, and Agentic AI systems**
-- 🚀 4+ years deploying **ML models to production** at scale
+- 🚀 5+ years deploying **ML models to production** at scale
 - 💼 Open to **full-time roles, founding engineer positions, and freelance projects**
 - ⚡ Also exploring **startup ideas in AI tooling and investment automation**
 
@@ -65,20 +65,6 @@ I'm a **Software Engineer and Data Scientist** with 4+ years of experience build
 | 🤖 AI CSV Analysis Agent | LLM-powered agent for automated data analysis | Python, LangChain, Next.js |
 | 📄 Resume Generation Pipeline | Automated resume builder with AI content tuning | n8n, OpenAI, React |
 | 🔍 RAG Knowledge System | Retrieval-Augmented Generation for domain Q&A | Python, Pinecone, HuggingFace |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=officialsrrahul&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=officialsrrahul&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=0891b2)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=officialsrrahul&theme=dark&hide_border=true&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2)
-
-</div>
 
 ---
 
